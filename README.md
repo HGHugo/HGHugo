@@ -1,5 +1,5 @@
 <h1 align="center">Hi here 👋, I'm Hugo</h1>
-<h3 align="center">Cybersecurity, Network and System apprentice</h3>
+<h3 align="center">Cybersecurity, Network and System </h3>
 <br>
 
 # 💫 About Me:
